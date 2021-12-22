@@ -7,4 +7,9 @@
     <li>pandas (for all the EDA data analysis)</li>
     <li>skliean (for KNN model)</li>
 </ul>
-# Recommender-system
+
+# Screen shots
+
+![1](https://user-images.githubusercontent.com/69845990/147048920-6aa1a366-8d91-4f91-8aa0-5e497061df17.PNG)
+![2](https://user-images.githubusercontent.com/69845990/147048926-94d71666-7906-4fb4-a1dc-541d080e0817.PNG)
+![3](https://user-images.githubusercontent.com/69845990/147048928-7734ea06-6b91-4415-9746-8d7f9a5d922b.PNG)
